@@ -6,8 +6,8 @@ $done = function(result) {
     if (obj.entries) {
       obj.entries.feature_discovery_popup_config = JSON.stringify({
         tag: 'LOCKET GOLD', tag_gradient: true, tag_style: 'gold_gradient',
-        title: 'Locket của Hoài Đức ✨',
-        feature_set: [{title: 'Hoài Đức', body: 'Phiên bản cá nhân'}],
+        title: 'Follow tiktok @hoaif_dwcs đi nàooo ✨',
+        feature_set: [{title: 'Hoài Đức', body: 'Đẹp trai có gì sai'}],
         primary_button_title: 'Bắt đầu thôi!', campaign: 'hoaiduc_personal_v2',
         start_at: '2020-01-01T00:00:00', end_at: '2099-12-31T23:59:59', use_local_time_zone: true
       });
