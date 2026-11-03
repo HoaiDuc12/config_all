@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://my.ublockdns.com/nonydjtx</string>
+			</dict>
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+					<key>Action</key>
+					<string>EvaluateConnection</string>
+					<key>ActionParameters</key>
+					<array>
+						<dict>
+							<key>DomainAction</key>
+							<string>NeverConnect</string>
+							<key>Domains</key>
+							<array>
+								<string>3gppnetwork.org</string>
+							</array>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>PayloadDisplayName</key>
+			<string>Hoài Đức – Locket DNS</string>
+			<key>PayloadIdentifier</key>
+			<string>vn.hoaiduc.locket.dns.nonydjtx</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>955C5BFD-DBBB-44E3-BF0F-493A43BE5CC0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>DNS-over-HTTPS cá nhân. Chặn api.revenuecat.com để giữ trạng thái Locket đã được nạp trước đó và chặn quảng cáo ở cấp DNS. Không tự mở khóa Gold.</string>
+	<key>PayloadDisplayName</key>
+	<string>Hoài Đức – Locket DNS</string>
+	<key>PayloadIdentifier</key>
+	<string>vn.hoaiduc.locket.profile.nonydjtx</string>
+	<key>PayloadOrganization</key>
+	<string>Hoài Đức / uBlockDNS</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D9C0C9F9-A3CE-4A38-A3FD-D7E6106922A0</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
