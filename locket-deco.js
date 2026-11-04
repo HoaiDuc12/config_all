@@ -724,14 +724,14 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'data': "https://cdn.upanhlaylink.com/i/5LPSWuwa.gif",
+                'data': "https://cdn.upanhlaylink.com/i/CV3IKftT.jpg",
                 'source': "url"
               },
               'max_lines': 1,
-              'text': "Hay hay hay",
+              'text': "Ngon",
               'localized_text': {
-                'en': "Hay hay hay",
-                'vn': "Hay hay hay"
+                'en': "Ngon",
+                'vn': "Ngon"
               },
               'text_color': "#FFFFFF",
               'type': "static_content"
@@ -772,16 +772,16 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'data': "https://cdn.upanhlaylink.com/i/41h43z6d.gif",
+                'data': "https://cdn.upanhlaylink.com/i/S0mzlQyB.jpg",
                 'source': "url"
               },
               'max_lines': 1,
-              'text': "Hoai Duc xin chao!",
+              'text': "Hoài Đức xin chào!",
               'localized_text': {
                 'en': "Hoai Duc xin chao!",
-                'vn': "Hoai Duc xin chao!"
+                'vn': "Hoài Đức xin chào!"
               },
-              'text_color': "#33FFFF",
+              'text_color': "#BBBBBB",
               'type': "static_content"
             }
           },
