@@ -1,8 +1,4 @@
-/**
- * Giải rối từ deleteHeader by duyvinh09 — V2.0.0.
- * Chạy ở giai đoạn REQUEST, trên đúng rule đã cấu hình.
- * Giữ nguyên danh sách 4 header của mã gốc; không tự xóa toàn bộ cache.
- */
+
 (function () {
   if (typeof $request === 'undefined' || !$request || !$request.headers) {
     $done({});
