@@ -442,7 +442,7 @@ if(ua.includes("Locket")){
     'widget_sync_token_reload_mode': "clearTokenNever",
     'widget_frame_event': JSON.stringify({
       'uid': "midautumn_2026",
-      'url': "https://ibb.co/fGxfD7rV",
+      'url': "https://i.ibb.co/cXr0Yd2K/Locket-Widget-Cat-Stickers.png",
       'use_local_time_zone': true,
       'placement': "below",
       'start_at': "2020-01-01T00:00:00",
