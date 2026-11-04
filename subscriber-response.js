@@ -1,9 +1,4 @@
-/**
- * Bản dễ đọc của đoạn sửa phản hồi thuê bao do anh cung cấp.
- * Chạy ở giai đoạn RESPONSE có body, trên đúng rule trả dữ liệu subscriber.
- * Các giá trị dưới đây được viết cứng theo mã gốc, không xác minh giao dịch.
- * File này không chứa filter, caption hoặc khung widget.
- */
+
 (function () {
   if (typeof $response === 'undefined' || !$response ||
       typeof $response.body !== 'string' || !$response.body.trim()) {
