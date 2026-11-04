@@ -51,14 +51,14 @@ if(ua.includes("Locket")){
       'profile_banner': true
     }),
     'feature_discovery_popup_config': JSON.stringify({
-      'tag': "LOCKET GOLD ALL FEATURES",
+      'tag': "LOCKET GOLD HoaiDuc",
       'tag_gradient': true,
       'tag_style': "gold_gradient",
       'title': "Lên Locket Gold rồi đó 😎",
       'feature_set': [
         {
           'title': "Nhớ follow kênh tiktok @hoaif_dwcs ✨",
-          'body': "Một follow của bạn, một niềm vui của mình 💛",
+          'body': "Đẹp trai có gì sai 💛",
           'imageURL': "https://cdn.upanhlaylink.com/i/CV3IKftT.jpg"
         }
       ],
