@@ -724,6 +724,7 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
+                'type': "image",
                 'data': "https://cdn.upanhlaylink.com/i/CV3IKftT.jpg",
                 'source': "url"
               },
@@ -772,6 +773,7 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
+                'type': "image",
                 'data': "https://cdn.upanhlaylink.com/i/S0mzlQyB.jpg",
                 'source': "url"
               },
@@ -1151,9 +1153,9 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'data': "eye.fill",
+                'data': "",
                 'type': "sf_symbol",
-                'color': "#0A84FF"
+                'color': "#00000000"
               },
               'max_lines': 1,
               'text': "            ",
@@ -1178,9 +1180,9 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'data': "camera.fill",
+                'data': "",
                 'type': "sf_symbol",
-                'color': "#FF007F"
+                'color': "#00000000"
               },
               'max_lines': 1,
               'text': "            ",
