@@ -59,7 +59,7 @@ if(ua.includes("Locket")){
         {
           'title': "Nhớ follow kênh tiktok @hoaif_dwcs ✨",
           'body': "Đẹp trai có gì sai 💛",
-          'imageURL': "https://cdn.upanhlaylink.com/i/CV3IKftT.jpg"
+          'imageURL': "https://cdn.upanhlaylink.com/i/n4rI7Hri.jpg"
         }
       ],
       'primary_button_title': "Xong rồi nhé!",
@@ -973,10 +973,10 @@ if(ua.includes("Locket")){
         ]
       },
       {
-        'section': "🎨 Decorative by Duy Vinh",
+        'section': "🎨 Decorative by HoaiDuc",
         'items': [
           {
-            'overlay_id': "caption:duyvinh09",
+            'overlay_id': "caption:hoaiduc72",
             'source': "remote",
             'caption': {
               'background': {
@@ -987,18 +987,18 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'data': "tortoise.fill",
+                'data': "pawprint.fill",
                 'type': "sf_symbol",
                 'color': "#183153"
               },
               'max_lines': 1,
-              'text': "duyvinh09",
+              'text': "hoaiduc72",
               'text_color': "#183153",
               'type': "static_content"
             }
           },
           {
-            'overlay_id': "caption:cu",
+            'overlay_id': "caption:Ngựa",
             'source': "remote",
             'caption': {
               'background': {
@@ -1009,7 +1009,7 @@ if(ua.includes("Locket")){
                 ]
               },
               'max_lines': 1,
-              'text': "Cu 🐎",
+              'text': "Ngựa 🐎",
               'text_color': "#633B24",
               'type': "static_content"
             }
@@ -1050,17 +1050,17 @@ if(ua.includes("Locket")){
                 'type': "emoji"
               },
               'max_lines': 1,
-              'text': "Snake Vibes",
+              'text': "Rắn",
               'localized_text': {
-                'en': "Snake Vibes",
-                'vn': "Chất rắn"
+                'en': "Snake",
+                'vn': "Rắn"
               },
               'text_color': "#FFFFFFE6",
               'type': "static_content"
             }
           },
           {
-            'overlay_id': "caption:du_an_ma",
+            'overlay_id': "caption:cut",
             'source': "remote",
             'caption': {
               'background': {
@@ -1070,11 +1070,11 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'data': '👻',
+                'data': '💩',
                 'type': "emoji"
               },
               'max_lines': 1,
-              'text': "dự án ma",
+              'text': "Cut",
               'text_color': "#FFFFFFE6",
               'type': "static_content"
             }
@@ -1107,14 +1107,14 @@ if(ua.includes("Locket")){
             }
           },
           {
-            'overlay_id': "caption:film_diary",
+            'overlay_id': "caption:chill_boy",
             'source': "remote",
-            'alt_text': "Một ngày rất chill",
+            'alt_text': "Chill guy",
             'caption': {
               'background': {
                 'image': {
                   'type': "image",
-                  'data': "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_camera_roll.png",
+                  'data': "https://cdn.upanhlaylink.com/i/T5dTkCab.jpg",
                   'source': "url"
                 },
                 'colors': [
@@ -1128,7 +1128,7 @@ if(ua.includes("Locket")){
                 'source': "url"
               },
               'max_lines': 1,
-              'text': "Một ngày rất chill",
+              'text': "Chill guy",
               'text_color': "#FFFDD0",
               'type': "static_content"
             }
@@ -1136,12 +1136,12 @@ if(ua.includes("Locket")){
           {
             'overlay_id': "caption:strangers",
             'source': "remote",
-            'alt_text': "Người lạ",
+            'alt_text': " ",
             'caption': {
               'background': {
                 'image': {
                   'type': "image",
-                  'data': "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_views.png",
+                  'data': "https://cdn.upanhlaylink.com/i/yGruQEod.jpg",
                   'source': "url"
                 },
                 'colors': [
@@ -1155,20 +1155,20 @@ if(ua.includes("Locket")){
                 'color': "#0A84FF"
               },
               'max_lines': 1,
-              'text': "Người lạ",
+              'text': " ",
               'text_color': "#FFFFFF",
               'type': "static_content"
             }
           },
           {
-            'overlay_id': "caption:genz_flex",
+            'overlay_id': "caption:genz",
             'source': "remote",
-            'alt_text': "Mood: Chill",
+            'alt_text': " ",
             'caption': {
               'background': {
                 'image': {
                   'type': "image",
-                  'data': "https://public.locketcamera.com/locket-public/gold_promos/gold_promo_widgets.png",
+                  'data': "https://cdn.upanhlaylink.com/i/jntr5GM9.jpg",
                   'source': "url"
                 },
                 'colors': [
@@ -1182,7 +1182,7 @@ if(ua.includes("Locket")){
                 'color': "#FF007F"
               },
               'max_lines': 1,
-              'text': "Mood: Chill 💅",
+              'text': " ",
               'text_color': "#FFFFFF",
               'type': "static_content"
             }
