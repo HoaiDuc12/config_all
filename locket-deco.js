@@ -1137,7 +1137,7 @@ if(ua.includes("Locket")){
           {
             'overlay_id': "caption:strangers",
             'source': "remote",
-            'alt_text': " ",
+            'alt_text': "            ",
             'caption': {
               'background': {
                 'image': {
@@ -1156,7 +1156,7 @@ if(ua.includes("Locket")){
                 'color': "#0A84FF"
               },
               'max_lines': 1,
-              'text': " ",
+              'text': "            ",
               'text_color': "#FFFFFF",
               'type': "static_content"
             }
@@ -1164,7 +1164,7 @@ if(ua.includes("Locket")){
           {
             'overlay_id': "caption:genz",
             'source': "remote",
-            'alt_text': " ",
+            'alt_text': "            ",
             'caption': {
               'background': {
                 'image': {
@@ -1183,7 +1183,7 @@ if(ua.includes("Locket")){
                 'color': "#FF007F"
               },
               'max_lines': 1,
-              'text': " ",
+              'text': "            ",
               'text_color': "#FFFFFF",
               'type': "static_content"
             }
