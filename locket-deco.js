@@ -724,15 +724,14 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'type': "image",
-                'data': "https://cdn.upanhlaylink.com/i/CV3IKftT.jpg",
-                'source': "url"
+                'data': "🕯️",
+                'type': "emoji"
               },
               'max_lines': 1,
-              'text': "Ngon",
+              'text': "Giáng sinh an lành",
               'localized_text': {
-                'en': "Ngon",
-                'vn': "Ngon"
+                'en': "Giáng sinh an lành",
+                'vn': "Giáng sinh an lành"
               },
               'text_color': "#FFFFFF",
               'type': "static_content"
@@ -773,15 +772,14 @@ if(ua.includes("Locket")){
                 ]
               },
               'icon': {
-                'type': "image",
-                'data': "https://cdn.upanhlaylink.com/i/S0mzlQyB.jpg",
-                'source': "url"
+                'data': '🥂',
+                'type': "emoji"
               },
               'max_lines': 1,
-              'text': "Hoài Đức xin chào!",
+              'text': "Xin chào 2027!",
               'localized_text': {
-                'en': "Hoai Duc xin chao!",
-                'vn': "Hoài Đức xin chào!"
+                'en': "Xin chào 2027!",
+                'vn': "Xin chào 2027!"
               },
               'text_color': "#BBBBBB",
               'type': "static_content"
@@ -1152,11 +1150,6 @@ if(ua.includes("Locket")){
                   "#2C2C2E"
                 ]
               },
-              'icon': {
-                'data': "",
-                'type': "sf_symbol",
-                'color': "#00000000"
-              },
               'max_lines': 1,
               'text': "            ",
               'text_color': "#FFFFFF",
@@ -1178,11 +1171,6 @@ if(ua.includes("Locket")){
                   "#FF9A9E",
                   "#FECFEF"
                 ]
-              },
-              'icon': {
-                'data': "",
-                'type': "sf_symbol",
-                'color': "#00000000"
               },
               'max_lines': 1,
               'text': "            ",
